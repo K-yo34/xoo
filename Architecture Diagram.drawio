@@ -1,26 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.1">
   <diagram name="Page-1" id="Qro3N19kuA68MMXOFKb0">
-    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="91m0j592700EVMdfEVHA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="30" y="120" width="300" height="230" as="geometry" />
+        <mxCell id="91m0j592700EVMdfEVHA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="30" y="10" width="790" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="91m0j592700EVMdfEVHA-2" value="&amp;nbsp;User Interface Layer (JavaFX)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="120" width="300" height="40" as="geometry" />
+        <mxCell id="91m0j592700EVMdfEVHA-2" value="&amp;nbsp;User Interface Layer (JavaFX)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="10" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="91m0j592700EVMdfEVHA-3" value="HOME SCREEN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="170" width="120" height="30" as="geometry" />
+        <mxCell id="91m0j592700EVMdfEVHA-3" value="HOME SCREEN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="91m0j592700EVMdfEVHA-5" value="LANGUAGE&lt;br&gt;TOGGLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="120" height="30" as="geometry" />
+        <mxCell id="q90caWwX5pwF5kCfXjax-1" value="CRUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="91m0j592700EVMdfEVHA-6" value="NOTIFICATIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="270" width="120" height="30" as="geometry" />
+        <mxCell id="q90caWwX5pwF5kCfXjax-2" value="TOURIST&amp;nbsp;&lt;div&gt;GUIDE&lt;/div&gt;&lt;div&gt;ATTRACTION&lt;/div&gt;&lt;div&gt;BOOKING&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="91m0j592700EVMdfEVHA-8" value="MENUS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="150" width="240" height="40" as="geometry" />
+        <mxCell id="q90caWwX5pwF5kCfXjax-3" value="FESTIVAL CALENDER&lt;div&gt;SAFETY TIPS&lt;br&gt;REGISTRATION&lt;br&gt;SETTINGS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-4" value="MENUS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-5" value="DATE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-6" value="HOME CONTROLLER&amp;nbsp;&lt;div&gt;DATA CONTROLLER&lt;/div&gt;&lt;div&gt;FESTIVAL CONTROLLER&lt;/div&gt;&lt;div&gt;SAFETY CONTROLLER&lt;/div&gt;&lt;div&gt;SETTING CONTROLLER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="25" y="430" width="245" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-7" value="CONTROLLER LAYER / LOGIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="390" width="485" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.334;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="91m0j592700EVMdfEVHA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="386" as="sourcePoint" />
+            <mxPoint x="390" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-9" value="LOGIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-11" value="FESTIVAL MANAGER&lt;div&gt;SAFETY ALERT&lt;/div&gt;&lt;div&gt;TOURIST SERVICE&lt;/div&gt;&lt;div&gt;REPORT SERVICE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-12" value="CONTROLLER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="430" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-14" value="DATA LAYER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="720" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q90caWwX5pwF5kCfXjax-15" target="q90caWwX5pwF5kCfXjax-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-15" value="Person.class&lt;div&gt;Tourist.class&lt;/div&gt;&lt;div&gt;Guide.class&lt;/div&gt;&lt;div&gt;Festival.class&lt;/div&gt;&lt;div&gt;Attraction.class&lt;/div&gt;&lt;div&gt;Booking.class&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q90caWwX5pwF5kCfXjax-17" target="q90caWwX5pwF5kCfXjax-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-17" value="FILE HANDLER..java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="805" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-19" value="FILE I/O" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="740" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.567;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q90caWwX5pwF5kCfXjax-14" target="q90caWwX5pwF5kCfXjax-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="680" as="sourcePoint" />
+            <mxPoint x="190" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="680" />
+              <mxPoint x="200" y="680" />
+              <mxPoint x="147" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.833;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q90caWwX5pwF5kCfXjax-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="680" as="sourcePoint" />
+            <mxPoint x="340" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="680" />
+              <mxPoint x="340" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-25" value="user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="q90caWwX5pwF5kCfXjax-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="7" as="sourcePoint" />
+            <mxPoint x="450" y="-80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
