@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.1">
   <diagram name="Page-1" id="Qro3N19kuA68MMXOFKb0">
-    <mxGraphModel dx="1895" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,19 +14,19 @@
           <mxGeometry x="300" y="60" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q90caWwX5pwF5kCfXjax-1" value="CRUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="250" height="30" as="geometry" />
+          <mxGeometry x="40" y="170" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q90caWwX5pwF5kCfXjax-2" value="TOURIST&amp;nbsp;&lt;div&gt;GUIDE&lt;/div&gt;&lt;div&gt;ATTRACTION&lt;/div&gt;&lt;div&gt;BOOKING&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="200" width="250" height="70" as="geometry" />
+          <mxGeometry x="40" y="200" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q90caWwX5pwF5kCfXjax-3" value="FESTIVAL CALENDER&lt;div&gt;SAFETY TIPS&lt;br&gt;REGISTRATION&lt;br&gt;SETTINGS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="180" width="270" height="90" as="geometry" />
+          <mxGeometry x="540" y="180" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q90caWwX5pwF5kCfXjax-4" value="MENUS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="150" width="270" height="40" as="geometry" />
+          <mxGeometry x="540" y="150" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q90caWwX5pwF5kCfXjax-5" value="DATE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="250" height="40" as="geometry" />
+          <mxGeometry x="310" y="100" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q90caWwX5pwF5kCfXjax-6" value="HOME CONTROLLER&amp;nbsp;&lt;div&gt;DATA CONTROLLER&lt;/div&gt;&lt;div&gt;FESTIVAL CONTROLLER&lt;/div&gt;&lt;div&gt;SAFETY CONTROLLER&lt;/div&gt;&lt;div&gt;SETTING CONTROLLER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="25" y="430" width="245" height="200" as="geometry" />
@@ -96,6 +96,9 @@
             <mxPoint x="480" y="7" as="sourcePoint" />
             <mxPoint x="450" y="-80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q90caWwX5pwF5kCfXjax-31" value="DASHBOARD (ADMIN)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
